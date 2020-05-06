@@ -1,16 +1,16 @@
 locations:
   - name: Sony Pictures Entertainment
     address: 10202 Washington Blvd, Culver City, CA 90232 
-  - name: One World Observatory
-    address: 285 Fulton St, NY 10007
-  - name: Metropolitan Museum of Art
-    address: 1000 5th Ave, NY
-  - name: Chrysler Building
-    address: 405 Lexington Ave, NY 10174
-  - name: National September 11 Memorial
-    address: 911 Greenwich St, NY 10006
-  - name: Rockefeller Center
-    address: 48th to 51st Sts, NY 10111
+  - name: Los Angeles Zoo
+    address: 5333 Zoo Dr, Los Angeles, CA 90027 
+  - name: The Huntington Library
+    address: 1151 Oxford Rd, San Marino, CA 91108
+  - name: Santa Monica Pier
+    address: 200 Santa Monica Pier, Santa Monica, CA 90401
+  - name: Arlington Garden in Pasadena
+    address: 275 Arlington Dr, Pasadena, CA 91105
+  - name: Los Angeles County Arboretum
+    address: 4301 N Baldwin Ave, Arcadia, CA 91007
   - name: Brooklyn Museum
     address: 200 Eastern Pkwy, Brooklyn, NY 11238
   - name: Whitney Museum
